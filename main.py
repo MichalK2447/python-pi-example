@@ -1,8 +1,9 @@
 #!/usr/bin//python3
 
 def main(msg):
-        // Adding the second commen to this file.
-	// Print a message
+        // no longer need another comment
         print (msg)
 
+def seconary():
+    print(new function)
 main("Hello people")
